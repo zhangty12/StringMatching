@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1404638170 source:g:\ide\codeblocks\codeblocks_code\stringmatching\main.cpp
+	"Data.h"
+	"DP.h"
+	<string>
+
+1404646354 g:\ide\codeblocks\codeblocks_code\stringmatching\data.h
+	<fstream>
+	<cstdlib>
+	<random>
+
+1404638170 g:\ide\codeblocks\codeblocks_code\stringmatching\dp.h
+	<iostream>
+	"Data.h"
+
+1404646063 source:g:\ide\codeblocks\codeblocks_code\stringmatching\data.cpp
+	"Data.h"
+
